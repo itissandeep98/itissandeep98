@@ -6,7 +6,7 @@
 :writing_hand: `Hi! I'm Sandeep, Student at IIITD, pursuing BTech in Computer Science. And I love to create and develop websites.`
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=itissandeep98&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=itissandeep98&show_icons=true&theme=radical">
 
 ## Technology Stack
 
