@@ -1,9 +1,9 @@
-## @itissandeep98 [![Hits](http://hits.dwyl.com/itissandeep98/itissandeep98.svg)](http://hits.dwyl.com/itissandeep98/itissandeep98)
+## @itissandeep98
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:itissandep98@gmail.com)
 
-:writing_hand: `Hi! I'm Sandeep, Student at IIITD, pursuing BTech in Computer Science. And I love to create and develop websites.`
+:writing_hand: Hi! I'm Sandeep, Student at IIITD, pursuing BTech in Computer Science. And I love to create and develop "Anything Intersting".
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=itissandeep98&show_icons=true&theme=radical">
