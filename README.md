@@ -20,6 +20,8 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=itissandeep98&layout=compact&theme=tokyonight" alt="languages">
+
 [![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 
