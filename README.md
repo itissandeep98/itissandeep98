@@ -8,9 +8,10 @@
 
 ## Technology Stack
 
-[![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Reactjs](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![json](https://img.shields.io/badge/-JSON-grey?style=flat-square&logo=json&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=firebase&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
