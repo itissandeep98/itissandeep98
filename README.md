@@ -11,9 +11,8 @@
 
 - Created a Survey platform for SHeroes [link](https://sheroes.pages.dev/)
 - IIITD based startup [link](https://memboro.com)
-- A web app to create timetable of only selected courses [link](https://itissandeep98.github.io/TimeTableManager/)
+- A web app to create timetable of only selected courses [link](https:/timetable.cf)
 - Web app to share books between students [link](https://itissandeep98.github.io/Bookend)
-- Part of a Freelancing work [link](https://itissandeep98.github.io/KD/)
 - JSON server (to read data) without setting up any server [link](https://jsonserver-f.herokuapp.com/)
 
 ## Technology I am Familiar with
