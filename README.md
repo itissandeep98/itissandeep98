@@ -1,21 +1,13 @@
 ## @itissandeep98
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/itissandeep/)](https://www.linkedin.com/in/itissandeep/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:itissandep98@gmail.com)](mailto:itissandep98@gmail.com)
 
-`Hello! I am Sandeep, an undergrad at IIIT Delhi. Currently working in some web development projects. `
+`I see and I create`
 
 ![visitors](https://komarev.com/ghpvc/?username=itissandeep98)
 
-## My Recent work
-
-- Created a Survey platform for SHeroes [link](https://sheroes.pages.dev/)
-- IIITD based startup [link](https://memboro.com)
-- A web app to create timetable of only selected courses [link](https://timetable.cf)
-- Web app to share books between students [link](https://itissandeep98.github.io/Bookend)
-- JSON server (to read data) without setting up any server [link](https://jsonserver-f.herokuapp.com/)
-
-## Technology I am Familiar with
+## Technologies
 
 [![Reactjs](https://img.shields.io/badge/-ReactJS-black?style=social&logo=react&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=social&logo=javascript&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
@@ -34,4 +26,4 @@
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=social&logo=Raspberry-Pi&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=social&logo=Arduino&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itissandeep98&theme=radical&layout=compact" alt="languages"/>
+
