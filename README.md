@@ -6,7 +6,7 @@
 `I see and I create`
 
 ![visitors](https://komarev.com/ghpvc/?username=itissandeep98)
-
+[![wakatime](https://wakatime.com/badge/user/52089fcf-25ea-401b-aa4a-7fe19b7896d0.svg)](https://wakatime.com/@52089fcf-25ea-401b-aa4a-7fe19b7896d0)
 ## Technologies
 
 [![Reactjs](https://img.shields.io/badge/-ReactJS-black?style=social&logo=react&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
