@@ -27,3 +27,5 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=social&logo=Arduino&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 
 
+[<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/d198132c-9862-4784-815e-3c602e792481" />
+](https://areyougoingexponential.rhys.dev/itissandeep98)
